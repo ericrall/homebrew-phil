@@ -1,6 +1,6 @@
 cask "phil" do
-  version "1.0.7"
-  sha256 "62f9954fe182f350c7188da2d1fc7b9f853ba8183aa823975c2ea55f9541d11d"
+  version "1.0.8"
+  sha256 "a8f07bc69bafdfbfd58ab62b03a90bd3d9a84736387873f6e3ad255b0e899b25"
 
   url "https://rall.digital/phil/phil-#{version}.zip"
   name "Phil"
