@@ -12,6 +12,8 @@ cask "phil" do
     strategy :sparkle
   end
 
+  disable! date: "2026-08-31", because: :discontinued
+
   app "Phil.app"
 
   zap trash: [
